@@ -1,0 +1,822 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "pricon",
+            "request": "launch",
+            "mainClass": "student_challeneg_4.pricon",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "fin",
+            "request": "launch",
+            "mainClass": "student_challeneg_4.fin",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "dou",
+            "request": "launch",
+            "mainClass": "student_challeneg_4.dou",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "static1",
+            "request": "launch",
+            "mainClass": "student_challeneg_4.static1",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "anonymous",
+            "request": "launch",
+            "mainClass": "student_challeneg_4.anonymous",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "nested",
+            "request": "launch",
+            "mainClass": "student_challeneg_4.nested",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "dos",
+            "request": "launch",
+            "mainClass": "student_challeneg_4.dos",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "gen",
+            "request": "launch",
+            "mainClass": "student_challeneg_4.gen",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "callback",
+            "request": "launch",
+            "mainClass": "student_challeneg_4.callback",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "phonein",
+            "request": "launch",
+            "mainClass": "student_challeneg_4.phonein",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "interfaces",
+            "request": "launch",
+            "mainClass": "student_challeneg_4.interfaces",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "shape",
+            "request": "launch",
+            "mainClass": "shape",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "abstr",
+            "request": "launch",
+            "mainClass": "abstr",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "abstr",
+            "request": "launch",
+            "mainClass": "student_challeneg_4.abstr",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "metov",
+            "request": "launch",
+            "mainClass": "student_challeneg_4.metov",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "methodoverriding",
+            "request": "launch",
+            "mainClass": "student_challeneg_4.methodoverriding",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "smar",
+            "request": "launch",
+            "mainClass": "student_challeneg_4.smar",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "constin",
+            "request": "launch",
+            "mainClass": "student_challeneg_4.constin",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "acc",
+            "request": "launch",
+            "mainClass": "student_challeneg_4.acc",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "cylindinhe",
+            "request": "launch",
+            "mainClass": "student_challenge1.cylindinhe",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "cylinder",
+            "request": "launch",
+            "mainClass": "student_challenge1.student_challenge3.cylinder",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "cylinderinhe",
+            "request": "launch",
+            "mainClass": "student_challenge1.student_challenge3.cylinderinhe",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "sub",
+            "request": "launch",
+            "mainClass": "student_challenge1.student_challenge3.sub",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "subid",
+            "request": "launch",
+            "mainClass": "student_challenge1.student_challenge3.subid",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "custodat",
+            "request": "launch",
+            "mainClass": "student_challenge1.student_challenge3.custodat",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "productdata",
+            "request": "launch",
+            "mainClass": "student_challenge1.student_challenge3.productdata",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "cylidata",
+            "request": "launch",
+            "mainClass": "student_challenge1.student_challenge3.cylidata",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "re",
+            "request": "launch",
+            "mainClass": "student_challenge1.student_challenge3.re",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "rectdata",
+            "request": "launch",
+            "mainClass": "student_challenge1.student_challenge3.rectdata",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "recdata",
+            "request": "launch",
+            "mainClass": "student_challenge1.student_challenge3.recdata",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "studentobj",
+            "request": "launch",
+            "mainClass": "student_challenge1.student_challenge3.studentobj",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "cylinderobj",
+            "request": "launch",
+            "mainClass": "student_challenge1.student_challenge3.cylinderobj",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "rectangleobj",
+            "request": "launch",
+            "mainClass": "student_challenge1.student_challenge3.rectangleobj",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "cmdsum",
+            "request": "launch",
+            "mainClass": "student_challenge1.student_challenge2.cmdsum",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "discount",
+            "request": "launch",
+            "mainClass": "student_challenge1.student_challenge2.discount",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "varagr",
+            "request": "launch",
+            "mainClass": "student_challenge1.student_challenge2.varagr",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "validate",
+            "request": "launch",
+            "mainClass": "student_challenge1.student_challenge2.validate",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "reversemethodoverload",
+            "request": "launch",
+            "mainClass": "student_challenge1.student_challenge2.reversemethodoverload",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "methodoverloadarea",
+            "request": "launch",
+            "mainClass": "student_challenge1.student_challenge2.methodoverloadarea",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "methodoverloading",
+            "request": "launch",
+            "mainClass": "student_challenge1.student_challenge2.methodoverloading",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "maxmethod",
+            "request": "launch",
+            "mainClass": "student_challenge1.student_challenge2.maxmethod",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "gcd",
+            "request": "launch",
+            "mainClass": "student_challenge1.student_challenge2.gcd",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "primenum",
+            "request": "launch",
+            "mainClass": "student_challenge1.student_challenge2.primenum",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "callrefe",
+            "request": "launch",
+            "mainClass": "student_challenge1.student_challenge2.callrefe",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "methinc",
+            "request": "launch",
+            "mainClass": "student_challenge1.student_challenge2.methinc",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "sort",
+            "request": "launch",
+            "mainClass": "student_challenge1.student_challenge2.sort",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "matrixmulti",
+            "request": "launch",
+            "mainClass": "student_challenge1.student_challenge2.matrixmulti",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "addmatrix",
+            "request": "launch",
+            "mainClass": "student_challenge1.student_challenge2.addmatrix",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "increasesizeofarray",
+            "request": "launch",
+            "mainClass": "student_challenge1.student_challenge2.increasesizeofarray",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "reversecopyarray",
+            "request": "launch",
+            "mainClass": "student_challenge1.student_challenge2.reversecopyarray",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "copyarray",
+            "request": "launch",
+            "mainClass": "student_challenge1.student_challenge2.copyarray",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "deletion",
+            "request": "launch",
+            "mainClass": "student_challenge1.student_challenge2.deletion",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "insertion",
+            "request": "launch",
+            "mainClass": "student_challenge1.student_challenge2.insertion",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "rightrotation",
+            "request": "launch",
+            "mainClass": "student_challenge1.student_challenge2.rightrotation",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "left",
+            "request": "launch",
+            "mainClass": "student_challenge1.student_challenge2.left",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "max2",
+            "request": "launch",
+            "mainClass": "student_challenge1.student_challenge2.max2",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "max",
+            "request": "launch",
+            "mainClass": "student_challenge1.student_challenge2.max",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "search",
+            "request": "launch",
+            "mainClass": "student_challenge1.student_challenge2.search",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "sumarr",
+            "request": "launch",
+            "mainClass": "student_challenge1.student_challenge2.sumarr",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "pattern5",
+            "request": "launch",
+            "mainClass": "student_challenge1.student_challenge2.pattern5",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "pattern4",
+            "request": "launch",
+            "mainClass": "student_challenge1.student_challenge2.pattern4",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "pattern3",
+            "request": "launch",
+            "mainClass": "student_challenge1.student_challenge2.pattern3",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "pattern2",
+            "request": "launch",
+            "mainClass": "student_challenge1.student_challenge2.pattern2",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "pattern1",
+            "request": "launch",
+            "mainClass": "student_challenge1.student_challenge2.pattern1",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "fibonacci",
+            "request": "launch",
+            "mainClass": "student_challenge1.student_challenge2.fibonacci",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "gp",
+            "request": "launch",
+            "mainClass": "student_challenge1.student_challenge2.gp",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "ap",
+            "request": "launch",
+            "mainClass": "student_challenge1.student_challenge2.ap",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "words",
+            "request": "launch",
+            "mainClass": "student_challenge1.student_challenge2.words",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "reverse",
+            "request": "launch",
+            "mainClass": "student_challenge1.student_challenge2.reverse",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "Armstrong",
+            "request": "launch",
+            "mainClass": "student_challenge1.student_challenge2.Armstrong",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "countdigit",
+            "request": "launch",
+            "mainClass": "student_challenge1.student_challenge2.countdigit",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "digits",
+            "request": "launch",
+            "mainClass": "student_challenge1.student_challenge2.digits",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "fact",
+            "request": "launch",
+            "mainClass": "student_challenge1.student_challenge2.fact",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "sumofnnum",
+            "request": "launch",
+            "mainClass": "student_challenge1.student_challenge2.sumofnnum",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "multiplication",
+            "request": "launch",
+            "mainClass": "student_challenge1.student_challenge2.multiplication",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "whileloop",
+            "request": "launch",
+            "mainClass": "student_challenge1.student_challenge2.whileloop",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "menu",
+            "request": "launch",
+            "mainClass": "student_challenge1.student_challenge2.menu",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "switypewebsite",
+            "request": "launch",
+            "mainClass": "student_challenge1.student_challenge2.switypewebsite",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "swiday",
+            "request": "launch",
+            "mainClass": "student_challenge1.student_challenge2.swiday",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "webname",
+            "request": "launch",
+            "mainClass": "student_challenge1.student_challenge2.webname",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "dayname",
+            "request": "launch",
+            "mainClass": "student_challenge1.student_challenge2.dayname",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "leap",
+            "request": "launch",
+            "mainClass": "student_challenge1.student_challenge2.leap",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "leapyear",
+            "request": "launch",
+            "mainClass": "student_challenge1.student_challenge2.leapyear",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "radix",
+            "request": "launch",
+            "mainClass": "student_challenge1.student_challenge2.radix",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "grade",
+            "request": "launch",
+            "mainClass": "student_challenge1.student_challenge2.grade",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "young",
+            "request": "launch",
+            "mainClass": "student_challenge1.student_challenge2.young",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "evenodd",
+            "request": "launch",
+            "mainClass": "student_challenge1.student_challenge2.evenodd",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "relational",
+            "request": "launch",
+            "mainClass": "student_challenge1.relational",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "largenum",
+            "request": "launch",
+            "mainClass": "student_challenge1.largenum",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "posnum",
+            "request": "launch",
+            "mainClass": "student_challenge1.posnum",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "wordcount",
+            "request": "launch",
+            "mainClass": "student_challenge1.wordcount",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "spe",
+            "request": "launch",
+            "mainClass": "student_challenge1.spe",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "bin",
+            "request": "launch",
+            "mainClass": "student_challenge1.bin",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "email",
+            "request": "launch",
+            "mainClass": "student_challenge1.email",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "regex",
+            "request": "launch",
+            "mainClass": "regex",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "strmet2",
+            "request": "launch",
+            "mainClass": "strmet2",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "strme1",
+            "request": "launch",
+            "mainClass": "strme1",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "Strpra",
+            "request": "launch",
+            "mainClass": "Strpra",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "printf1",
+            "request": "launch",
+            "mainClass": "printf1",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "masmer",
+            "request": "launch",
+            "mainClass": "masmer",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "shift",
+            "request": "launch",
+            "mainClass": "shift",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "bitwise",
+            "request": "launch",
+            "mainClass": "bitwise",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "cuboidArea",
+            "request": "launch",
+            "mainClass": "cuboidArea",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "quadratic",
+            "request": "launch",
+            "mainClass": "quadratic",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "area",
+            "request": "launch",
+            "mainClass": "area",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "area1",
+            "request": "launch",
+            "mainClass": "area1",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "incdec",
+            "request": "launch",
+            "mainClass": "incdec",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "arthimetic",
+            "request": "launch",
+            "mainClass": "arthimetic",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "unicode",
+            "request": "launch",
+            "mainClass": "unicode",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "sign",
+            "request": "launch",
+            "mainClass": "sign",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "integralvalues",
+            "request": "launch",
+            "mainClass": "integralvalues",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "values",
+            "request": "launch",
+            "mainClass": "values",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "size",
+            "request": "launch",
+            "mainClass": "size",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "radix",
+            "request": "launch",
+            "mainClass": "radix",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "name",
+            "request": "launch",
+            "mainClass": "name",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "java",
+            "name": "add",
+            "request": "launch",
+            "mainClass": "add",
+            "projectName": "Java journey_a9dfc1fe"
+        },
+        {
+            "type": "lldb",
+            "request": "attach",
+            "name": "Attach",
+            "program": "${workspaceFolder}/<program>"
+        }
+    ]
+}
